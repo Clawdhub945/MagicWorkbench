@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ModMetaData>
+  <name>魔法工作台</name>
+  <authors>
+    <li>DawnOfIndustry</li>
+  </authors>
+  <description>添加魔法工作台建筑（3x2网格），可以制作魔法道具和装备。</description>
+  <url>https://github.com/miblooming/TerritoryModTutorial</url>
+  <packageId>DawnOfIndustry.MagicWorkbench</packageId>
+  <supportedVersions>
+    <li>1.0</li>
+  </supportedVersions>
+  <modVersion>1.0.0</modVersion>
+</ModMetaData>

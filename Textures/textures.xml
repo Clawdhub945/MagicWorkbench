@@ -1,0 +1,27 @@
+<ModImages version="1">
+
+  <Image
+      file="super_magic_workbench_0.png"
+      action="add"
+      anchor="0,0"
+      />
+
+  <Image
+      file="super_magic_workbench_1.png"
+      action="add"
+      anchor="0,0"
+      />
+
+  <Image
+      file="super_magic_workbench_2.png"
+      action="add"
+      anchor="0,0"
+      />
+
+  <Image
+      file="super_magic_workbench_3.png"
+      action="add"
+      anchor="0,0"
+      />
+
+</ModImages>

@@ -1,0 +1,19 @@
+[
+    {
+        "formula_id": 40309900,
+        "disable": 0,
+        "facility_id": 105099,
+        "need_research": 0,
+        "type": 1,
+        "days": 10.0,
+        "product_id": 403099,
+        "output_count": 3,
+        "education_effect": 1,
+        "_material_1": 604001,
+        "_n1": 6,
+        "_material_2": 605001,
+        "_n2": 3,
+        "_material_3": "",
+        "_n3": ""
+    }
+]

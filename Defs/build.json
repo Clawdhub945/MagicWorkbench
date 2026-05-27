@@ -1,0 +1,32 @@
+[
+    {
+        "id": 105099,
+        "class_name": "FacilityBlacksmith",
+        "cellw": 2,
+        "cellh": 2,
+        "hp": 100,
+        "have_worker": 1,
+        "must_have_worker": 1,
+        "can_build_by_player": 1,
+        "set_product_on_build": 1,
+        "need_set_product_first_by_player": 0,
+        "has_bag": "1",
+        "can_dismantle": "1",
+        "can_connect_to_box": 1,
+        "window_prefab": "window_blacksmith",
+        "menu_group": 3,
+        "indoor_outdoor": 1,
+        "is_obstruct": 1,
+        "can_rotate": 1,
+        "quantity_limit": 0,
+        "architect_count_max": 3,
+        "workload": 20,
+        "effect_range": 30,
+        "_material_1": "604001.0",
+        "_n1": 30,
+        "_material_2": "605001.0",
+        "_n2": 60,
+        "_material_3": "603001.0",
+        "_n3": 30
+    }
+]
