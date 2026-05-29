@@ -1,0 +1,26 @@
+[
+    {
+        "tech_id": 1050101,
+        "depend_tech_id": 0,
+        "tech_points": 500,
+        "silver": 200,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 1050102,
+        "depend_tech_id": 0,
+        "tech_points": 500,
+        "silver": 200,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 1050061,
+        "depend_tech_id": 0,
+        "tech_points": 500,
+        "silver": 200,
+        "disable": 0,
+        "can_research": 1
+    }
+]

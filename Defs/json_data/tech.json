@@ -1,0 +1,34 @@
+[
+    {
+        "txt_id": 5000,
+        "tech_id": 902013,
+        "facility_id": 105099,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "制造工具和武器等"
+    },
+    {
+        "txt_id": 95001,
+        "tech_id": 0,
+        "facility_id": 1050101,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "制造工具和武器等"
+    },
+    {
+        "txt_id": 95002,
+        "tech_id": 0,
+        "facility_id": 1050102,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "利用蒸汽动力驱动的机器，可以提高生产效率。"
+    },
+    {
+        "txt_id": 95003,
+        "tech_id": 0,
+        "facility_id": 1050061,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "采集工人会在附近的森林里，采集野菜。"
+    }
+]

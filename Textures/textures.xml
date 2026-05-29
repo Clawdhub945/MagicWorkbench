@@ -24,4 +24,28 @@
       anchor="0,0"
       />
 
+  <Image
+      file="steam_engine_0.png"
+      action="add"
+      anchor="0,0"
+      />
+
+  <Image
+      file="steam_engine_1.png"
+      action="add"
+      anchor="0,0"
+      />
+
+  <Image
+      file="steam_engine_2.png"
+      action="add"
+      anchor="0,0"
+      />
+
+  <Image
+      file="steam_engine_3.png"
+      action="add"
+      anchor="0,0"
+      />
+
 </ModImages>

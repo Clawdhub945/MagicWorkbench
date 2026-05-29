@@ -12,6 +12,9 @@ public class MagicWorkbenchPlugin : BasePlugin
         var harmony = new Harmony("com.magicworkbench.plugin");
 
         MagicWorkbench.Register();
+        SteamEngine.Register();
+        Workbench2.Register();
+        GatherersHut2.Register();
 
         BuildFacilityPatch.Register(harmony);
         WindowNullGuard.Register(harmony);
